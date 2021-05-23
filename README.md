@@ -1,1 +1,2 @@
-# anydemicprototye
+# anydemicprototype
+#errors in basic functionalities 
