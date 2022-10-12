@@ -1,5 +1,5 @@
 # PHP-SQLi
 # Anydemicprototype
 # use it with xampp 
-SQL and Apache.
+# Apache and SQL.
 My BSc Computer Science Thesis Demo
