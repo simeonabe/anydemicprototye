@@ -1,2 +1,4 @@
+PHP-SQLi
 # anydemicprototype
-#errors in basic functionalities 
+# use it with xampp
+SQL and Apache.
